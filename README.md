@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  🚀 Next Level Week 1.0
 </h4>
 
 <p align="center">
@@ -22,6 +22,8 @@
 
 <p align="center">
   <img alt="EColeta" src="https://github.com/r33-code/NextLevelWeek/blob/master/docs/ecoleta.png" width="100%">
+  <img alt="Pesquisar potnos de coleta" src="https://github.com/r33-code/NextLevelWeek/blob/master/docs/pesquisa.png" width="100%">  
+    
 </p>
 
 ## :rocket: Tecnologias
