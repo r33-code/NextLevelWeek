@@ -1,0 +1,14 @@
+{
+    "name": "Jardim dos Bolos",
+    "email": "bolos@jardim.com",
+    "whatsapp": "452145125421",
+    "latitude": -15.9415587,
+    "longitude": -47.8133228,
+    "city": "Brasília",
+    "uf": "DF",
+    "items": [
+        3,
+        2,
+        3
+    ]
+}

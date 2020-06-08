@@ -1,0 +1,3 @@
+npx ts-node-dev src/server.ts | npm run dev
+
+npx knex migrate:latest --knexfile knexfile.ts migrate:latest   | npm run knex:migrate
